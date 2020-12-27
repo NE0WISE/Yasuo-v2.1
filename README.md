@@ -1,12 +1,14 @@
 # Yasuo-v2.1
 
+Brute force attack Removed, phishing only available. Added +25 sites to the new version of Yasuo.
+
 ---
 
 <br>
 
-# Installation / Linux
+# Installation /Linux
 
-Yasuo2.1 ❯First Version-Termux❯ [Git Repo](https://github.com/NE0WISE/Yasuo-v2.1)  :
+Yasuo2.1 ❯First Version-Termux❯ [Git Repo](https://github.com/NE0WISE/yasuo.git)  :
 
 ```
  ❯❯❯ git clone https://github.com/NE0WISE/Yasuo-v2.1.git
@@ -16,7 +18,7 @@ Yasuo2.1 ❯First Version-Termux❯ [Git Repo](https://github.com/NE0WISE/Yasuo-
 
 <br>
 
-# Installation / Termux
+# Installation /Termux
 
 ```
  ❯❯❯ git clone https://github.com/NE0WISE/Yasuo-v2.1.git
