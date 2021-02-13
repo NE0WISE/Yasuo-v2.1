@@ -31,6 +31,8 @@ Yasuo2.1 ❯First Version-Termux❯ [Git Repo](https://github.com/NE0WISE/yasuo.
 
 - **Mr.Neowise** (Yasuo_v2.1) - 
 
+https://youtu.be/_Tv0a27jbZI
+
 `Support (BTC) = 15VkfWnihwSKgKB1cHW2pXUxvk5r5HN8Yc`
 
 
